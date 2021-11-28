@@ -156,7 +156,7 @@
 - MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf[百度云下载链接](https://pan.baidu.com/s/1mqDZnqGKdmzyzr0xOYi6Ig ) 密码:qrzk
 - Redis入门指南（第2版） [百度云下载链接](https://pan.baidu.com/s/1vrxspfK5sE66Il8Bx07GyQ) 密码:xrxp
 - Redis设计与实现 [百度云下载链接](https://pan.baidu.com/s/1CrTD2RCrVoO0-RTqYbCaoA) 密码:m8h2
-- Redis开发与运维(付磊).pdf [百度云下载链接](链接：https://pan.baidu.com/s/1MMy-4CMFZxh6hPWQxPGVoA) 密码:6r6b
+- Redis开发与运维(付磊).pdf [百度云下载链接](https://pan.baidu.com/s/1MMy-4CMFZxh6hPWQxPGVoA) 密码:6r6b
 
 
 
