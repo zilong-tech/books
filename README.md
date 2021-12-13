@@ -1,7 +1,7 @@
 # books
 **经典的编程书单大全简介:**
 
-> 这里汇集如下主题的经典书籍： 编程语言、操作系统、计算机网络、系统架构、设计模式、程序员数学、测试、中间件 、前端开发、后台开发、网络编程、Linux使用及内核、求职面试、算法与数据结构、数据库、Redis等编程学习书籍。
+> 这里汇集如下主题的经典书籍： 编程语言、操作系统、计算机网络、系统架构、设计模式、程序员数学、测试、中间件 、前端开发、后台开发、网络编程、Linux使用及内核、求职面试、算法与数据结构、数据库、Redis、消息中间件等编程学习书籍。
 
 **本仓库持续更新中，后续会陆续分享更多经典电子书，建议大家 Star 下。
 
@@ -19,6 +19,8 @@
 - [C++](#c++)
 - [JAVA](#java)
 - [Nginx](#nginx)
+- [消息中间件](#消息中间件)
+- [ES](#es)
 - [C语言](#c语言)
 - [分布式系统](#分布式系统)
 - [前端](#前端)
@@ -107,6 +109,8 @@
 
 - 深入理解Nginx模块开发与架构解析第2版.pdf [百度云下载链接](https://pan.baidu.com/s/1mbJiwGKH6DrKb5HUE63dpQ) 密码:muoo
 
+
+
 # Linux
 
 - 鸟哥私房菜（全）[百度云下载链接](链接：https://pan.baidu.com/s/1doBN1aZmF68j_Ba5N1RzSg) 密码：bzkl
@@ -140,11 +144,17 @@
 # 架构和设计模式
 
 - 设计模式pdf [百度云下载链接](链接：https://pan.baidu.com/s/15EZPD45ZnrXALUmBBwj7jw) 密码:2mt9
-
+- 设计模式之禅  [百度云下载链接](https://pan.baidu.com/s/1nK7bMvSxYSTtxJ873Krs_g) 密码：9bfg 
+- 大话设计模式(带目录完整版) [百度云下载链接](https://pan.baidu.com/s/1mfxTefE-bJA5VAe_VXb5AQ) 密码：03qb 
+- [代码整洁之道].(美)马丁.扫描版 [百度云下载链接](https://pan.baidu.com/s/1DGbG35NJ3OfCu5jXL2aU9Q)密码：97pz 
 - 软件架构方面.pdf [百度云下载链接](https://pan.baidu.com/s/13GwprOj02S84ONiLIHUjAA) 密码:z9wd
-
-- 大型网站技术架构_核心原理与案例分析_李智慧.pdf [百度云下载链接](https://pan.baidu.com/s/1rCkXDpSpFf7sFnyVrG3JaQ) 密码:vlj6
-
+- 重学Java设计模式 [百度云下载链接](https://pan.baidu.com/s/1rAwCR6fmr975N1fshXNu-A)密码：zgxn 
+- 图解设计模式 [百度云下载链接](https://pan.baidu.com/s/1kyyOtUrd6l5_avNq5tr_og)密码：pxe8 
+- HeadFirst设计模式  [百度云下载链接](https://pan.baidu.com/s/1vToTrdv3Mtz1kBnDbxP5cA)密码：2swt 
+- 修改代码的艺术_ [百度云下载链接](https://pan.baidu.com/s/1xrrbPzCDN3DSehCdLHyr-w)密码：f4p7 
+- 软件设计重构  [百度云下载链接](https://pan.baidu.com/s/1um65YdHUoXKEx7KTRj9Ygg)密码：n257 
+- 设计模式+可复用面向对象软件的基础  [百度云下载链接](https://pan.baidu.com/s/1NEj9Y57TYce8JzAf6M28EQ)密码：t2l2 
+- 大型网站技术架构核心原理与案例分析李智慧.pdf [百度云下载链接](https://pan.baidu.com/s/1rCkXDpSpFf7sFnyVrG3JaQ) 密码:vlj6
 - 大型分布式网站架构设计与实践.带目录书签.完整版.pdf [百度云下载链接](https://pan.baidu.com/s/1fxI_Dt5v1TcEgDEASvO50A[) 密码:wnkt
 
 # 数据库
@@ -157,8 +167,16 @@
 - Redis入门指南（第2版） [百度云下载链接](https://pan.baidu.com/s/1vrxspfK5sE66Il8Bx07GyQ) 密码:xrxp
 - Redis设计与实现 [百度云下载链接](https://pan.baidu.com/s/1CrTD2RCrVoO0-RTqYbCaoA) 密码:m8h2
 - Redis开发与运维(付磊).pdf [百度云下载链接](https://pan.baidu.com/s/1MMy-4CMFZxh6hPWQxPGVoA) 密码:6r6b
+- redis实战[百度云下载链接](https://pan.baidu.com/s/1k-zM9pmV5V0bAhmpFovrrQ ) 密码：ekax 
 
+# 消息中间件
 
+- Kafka权威指南 [百度云下载链接](https://pan.baidu.com/s/1BeSgMzJEs5ZzIIgOGY_jWg) 密码：khmc
+- RocketMQ技术内幕高清丁威带书签 [百度云下载链接](https://pan.baidu.com/s/1u7EeW7B42-Ww37cMFShh1w) 密码：1yhm
+
+# ES
+
+- 深入理解ElasticSearch [百度云下载链接](https://pan.baidu.com/s/1YJQ-9BflgdOtzNDp-atuJQ) 密码：4oh9 
 
 # 前端
 
@@ -234,7 +252,6 @@
 如果有的链接失效，可以联系下面的公众号，在后台留言
 
 ![image](https://user-images.githubusercontent.com/44537399/139774981-67fce4d1-27b5-4127-a778-29affdc10a08.png)
-
 
 
 
